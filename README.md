@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlexFierro9
 - 👀 I’m interested in AI/ML
-- 🌱 I’m currently learning Python, Matlab & Tensorflow
+- 🌱 I’m currently learning Python, Matlab & Tensorflow with C++
 - 💞️ I’m looking to collaborate on AI based projects
 - 📫 How to reach me leave a mail at saksham0910@outlook.com !
 
